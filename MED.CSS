@@ -7,10 +7,11 @@ h2{
     color:rgb(255, 255, 255);
     font-size: 100px;
 }
+
 header{
-    height: 600px;
+    height: 100vh;
     background: url('./5780594117615667122_120.jpg') center center/cover no-repeat;
-    position: relative;
+    position: relative ;width: 100%;
 }
 hr{animation-name: square;
      box-shadow: 1px 1px 12px 1PX rgba(175, 167, 226, 0.951);}
